@@ -1,0 +1,2 @@
+Lệnh tạo nhánh git branch với tên nhánh: add-project1
+Lệnh checkout để chuyển nhánh.
